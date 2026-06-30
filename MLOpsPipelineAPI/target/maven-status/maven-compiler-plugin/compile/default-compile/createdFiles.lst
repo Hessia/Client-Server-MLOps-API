@@ -1,0 +1,17 @@
+com/elif/mlops/DataStore.class
+com/elif/mlops/ApplicationConfig.class
+com/elif/mlops/JakartaRestConfiguration.class
+com/elif/mlops/ErrorResponse.class
+com/elif/mlops/LinkedWorkspaceNotFoundException.class
+com/elif/mlops/MLWorkspace.class
+com/elif/mlops/exceptions/GlobalExceptionMapper.class
+com/elif/mlops/resources/EvaluationMetricResource.class
+com/elif/mlops/resources/ModelResource.class
+com/elif/mlops/resources/WorkspaceResource.class
+com/elif/mlops/EvaluationMetric.class
+com/elif/mlops/resources/DiscoveryResource.class
+com/elif/mlops/MachineLearningModel.class
+com/elif/mlops/ModelDeprecatedException.class
+com/elif/mlops/WorkspaceNotEmptyException.class
+com/elif/mlops/resources/APILoggingFilter.class
+com/elif/mlops/resources/JakartaEE10Resource.class
